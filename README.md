@@ -6,7 +6,7 @@ This project provides visualizations for various search algorithms implemented i
 
 - Depth-First Search (DFS)
 - Breadth-First Search (BFS)
-- Greedy Best-First Search (GBFS)
+- Greedy Breadth-First Search (GBFS)
 - A* Search Algorithm (ASTAR)
 
 ## Getting Started
